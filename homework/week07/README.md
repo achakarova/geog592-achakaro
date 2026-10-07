@@ -25,21 +25,22 @@ https://www.charlottenc.gov/Services/Stormwater/Data-Apps
 
 Contains drainage features such as streams, creeks, and channels in Charlotte-Mecklenburg.
 
-Source: City of Charlotte GIS Storm Drainage data  
+Source: City of Charlotte GIS Storm Drainage data      
 https://gis.charlottenc.gov/arcgis/rest/services/STM/StormDrainage/MapServer
 
 ### Fire Stations
 
 Contains current Charlotte Fire Department station locations.
 
-Source: City of Charlotte GIS
+Source: City of Charlotte GIS      
 https://arcg.is/1TT1a3
 
 ### Streets
 
 Contains street centerlines for the Charlotte-Mecklenburg area.
 
-Source: City of Charlotte / Mecklenburg County GIS
+Source: City of Charlotte / Mecklenburg County GIS        
+https://gis.charlottenc.gov/arcgis/rest/services/CountyData/Streets/MapServer
 
 ## Layers (TBD)
 
